@@ -24,12 +24,12 @@
 
 body {
     background-color: #ebe5c5;
-    font-family: var(--font0);
+    font-family: var(--font1);
 }
 
 header > h1 {
-    color: white
-    var(--font1)
+    font-family: var(--font2);
+    color:#2fa866
 }
 
 main h1 {
