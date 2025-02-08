@@ -18,7 +18,7 @@
 
     --font0: arial, Verdana, Helvetica, sans-serif;
     --font1: 'Bebas Neue', cursive;
-    --font3: 'Android', cursive;
+    --font2: 'Android', cursive;
 
 }
 
@@ -33,9 +33,10 @@ header > h1 {
 }
 
 main h1 {
+    font-family: var(--font2);
     color: var(--cor5)
-    var(--font2)
+    
 }
 main h2 {
-   font-family: var(--font3); 
+   font-family: var(--font2); 
 }
